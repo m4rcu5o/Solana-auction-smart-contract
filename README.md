@@ -23,5 +23,9 @@ This project contains a Solana smart contract for an auction game, where users c
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-username/solana-auction-game.git
-cd solana-auction-game
+git clone https://github.com/husreodev/auction_contract.git
+cd auction_contract
+
+## Contact
+
+Telegram: https://twitter.com/husreo_tx
