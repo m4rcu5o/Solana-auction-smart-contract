@@ -25,7 +25,7 @@ This project contains a Solana smart contract for an auction game, where users c
 ```bash
 git clone https://github.com/husreodev/auction_contract.git
 cd auction_contract
-
+```
 ## Contact
-
 Twitter: https://x.com/HudesDev
+
