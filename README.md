@@ -28,4 +28,4 @@ cd auction_contract
 
 ## Contact
 
-Telegram: https://twitter.com/husreo_tx
+Twitter: https://x.com/HudesDev
