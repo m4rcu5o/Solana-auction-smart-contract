@@ -27,5 +27,5 @@ git clone https://github.com/husreodev/auction_contract.git
 cd auction_contract
 ```
 ## Contact
-Twitter: [RRR](https://x.com/microRustyme)
+Telegram: [RRR](https://x.com/microRustyme)
 
